@@ -1,6 +1,9 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
-import './code/01-basic-types'
+//import './code/01-basic-types'
+//import './code/02-objects'
+//import './code/03-functions'
+import './code/04-second-functions'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
